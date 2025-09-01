@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : ""
+title                    : "Glaucia Possas da Motta"
 title_separator          : "-"
 name                     : &name "Glaucia Possas da Motta"
-description              : &description "PhD Candidate in Economics and Finance at Nova School of Business and Economics (Nova SBE)."
+description              : &description "Research on patient navigation, value-based health care, and oncology outcomes"
 url                      : https://glauciapossas-dev.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "glauciapossas-dev/glauciapossas-dev.github.io"
@@ -23,8 +23,8 @@ repository               : "glauciapossas-dev/glauciapossas-dev.github.io"
 author:
   # Biographic information
   avatar           : "IMG_1770.jpg"
-  name             : "Glaucia Possas Motta"
-  pronouns         : # example: "she/her"  
+  name             : "Glaucia Possas da Motta"
+  pronouns         : # example: "she/her"
   bio              : "PhD Candidate in Economics and Finance at Nova School of Business and Economics (Nova SBE)."
   location         : "Lisbon"
   employer         : "Nova SBE"
@@ -48,8 +48,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "glauciapossas-dev"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   artstation       : # Username
@@ -83,7 +83,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
@@ -218,74 +218,27 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
