@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : ""
+title                    : "Glaucia Possas da Motta"
 title_separator          : "-"
 name                     : &name "Glaucia Possas da Motta"
 description              : &description "Research on patient navigation, value-based health care, and oncology outcomes"
@@ -23,7 +23,7 @@ repository               : "glauciapossas-dev/glauciapossas-dev.github.io"
 author:
   # Biographic information
   avatar           : "IMG_1770.jpg"
-  name             : "Glaucia Possas da Motta"
+  name             : ""
   pronouns         : # example: "she/her"
   bio              : "PhD Candidate in Economics and Finance at Nova School of Business and Economics (Nova SBE)."
   location         : "Lisbon"
