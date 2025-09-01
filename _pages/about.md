@@ -5,8 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-# About
-
 I’m **Glaucia Possas da Motta** (Nova SBE). My research focuses on **patient navigation**, **value-based health care**, and **oncology outcomes**.
 
 ## Current research
