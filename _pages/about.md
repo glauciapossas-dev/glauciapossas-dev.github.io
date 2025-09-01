@@ -14,6 +14,7 @@ My research focuses on **health economics** and *regional economics**, with emph
 - The Role of Patient Navigators in Colorectal Cancer Care: Evidence from a Randomized Controlled Trial in Portugal, with Patricia Miguel Semedo, 2025.
 
 - Household Influences on Smoking Behavior: Evidence from Portugal, 2025.
+[Full paper PDF](files/Smoking_PT.pdf)
 
 ## Publications
 
