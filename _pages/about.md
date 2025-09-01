@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-My research focuses on **health economics** and *regional economics**, with emphasis on patient navigation, value-based health care, and applied microeconometrics.
+My research focuses on **health economics** and **regional economics**, with emphasis on patient navigation, value-based health care, and applied microeconometrics.
 
 ## Current research
 
