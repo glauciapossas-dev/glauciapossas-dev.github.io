@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I’m **Glaucia Possas da Motta** (Nova SBE). My research focuses on **patient navigation**, **value-based health care**, and **oncology outcomes**.
+My research focuses on **health economics** and *regional economics**, with emphasis on patient navigation, value-based health care, and applied microeconometrics.
 
 ## Current research
 
